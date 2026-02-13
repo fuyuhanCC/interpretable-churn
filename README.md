@@ -69,7 +69,7 @@ high interpretability, making it suitable for further explanation.
 
 ---
 
-## 📊 Explainability & Model Interpretation
+## 📊 03 – Explainability & Model Interpretation
 
 To ensure transparency and trustworthiness of the churn prediction model,
 we focus on **interpretable machine learning** rather than black-box accuracy
