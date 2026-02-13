@@ -12,17 +12,17 @@ in Python.
 
 ## 📂 Project Structure
 
-interpretable-churn/
-├── data/
-│ └── raw/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_modeling.ipynb
-│ └── 03_interpretation.ipynb
-├── requirements.txt
-├── .gitignore
-└── README.md
+interpretable-churn/  
+├── data/  
+│ └── raw/  
+│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv  
+├── notebooks/  
+│ ├── 01_eda.ipynb  
+│ ├── 02_modeling.ipynb  
+│ └── 03_interpretation.ipynb  
+├── requirements.txt  
+├── .gitignore  
+└── README.md  
 
 
 ---
